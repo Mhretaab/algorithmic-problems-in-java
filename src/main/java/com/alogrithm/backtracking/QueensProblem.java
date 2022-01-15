@@ -74,6 +74,6 @@ public class QueensProblem {
     }
 
     public static void main(String[] args) {
-        new QueensProblem(8).solve();
+        new QueensProblem(2).solve();
     }
 }
